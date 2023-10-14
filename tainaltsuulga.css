@@ -1,0 +1,45 @@
+.logo img{
+    border-radius: 400px;  
+    width: 170px; 
+    font: 20px;
+    height: 150px;
+    padding: 10px;
+}
+body{
+    background-color: #504a9e;
+
+}
+.icon h2{
+
+}
+.garchig{
+width: 200px ;      
+height: 730px;
+background-color: black;
+position: sticky;
+top: 0;
+
+}
+.garchig a {
+color: white;
+font-size: 30px;
+padding: 10px;
+}
+.garchig h2 {
+    color: white;
+    padding: 10px;
+ }
+i{
+    color: azure;
+    font-size: 30px;
+    padding: 5px;
+}
+.home img{
+    font-size: 200px;
+    width: 300px;
+    height: 300px;
+}
+img{
+    width: 1500px;
+    height: 800px;
+}
